@@ -1,0 +1,93 @@
+body
+{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+hr
+{
+    border: 2px solid white;
+}
+.divya label
+{
+    color: black;
+    font-size: 20px;
+    margin-left: 18px;
+}
+.divya input
+{
+    padding-right: 1270px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-style: groove;
+    margin-left: 18px;
+}
+.diya label
+{
+    color: black;
+    font-size: 20px;
+    margin-left: 18px;
+
+}
+.diya input
+{
+    padding-right: 540px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin-left: 18px;
+}
+.dia input
+{
+    padding-right: 540px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin-left: 18px;
+}
+.a label
+{
+    color: gray;
+    font-size: 19px;
+    margin-left: 18px;
+}
+.r label
+{
+    color: black;
+    font-size: 20px;
+    margin-left: 18px;
+}
+.d label
+{
+    color: gray;
+    font-size:19px ;
+    margin-left: 18px;
+}
+.a input
+{
+    margin-left: 18px;
+}
+.d input
+{
+    margin-left: 18px;
+}
+.z label
+{
+    margin-left: 18px;
+    color: black;
+    font-size: 20px;
+}
+.z input
+{
+
+    padding-right: 1270px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-style: groove;
+    margin-left: 18px;
+}
+.x button
+{
+    color: white;
+    background-color: green;
+    padding: 10px 30px 10px 30px;
+}
